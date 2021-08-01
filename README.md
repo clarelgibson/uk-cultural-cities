@@ -10,7 +10,7 @@ This analysis looks at 500 cities and towns in the UK and ranks them in order of
 ## Data Dictionary
 These comma-separated values (CSV) files are available for download, with the following data fields.
 
-[cities.csv](LINK) - To establish the top UK cultural cities and towns per capita, DIYS.com gathered a list by population from [The Geographist] (https://www.thegeographist.com/uk-cities-population-1000/)
+[cities.csv](https://github.com/clarelgibson/uk-cultural-cities/blob/116eb65093081c1341ac7582660e68b72bd0ab86/data-in/cities.csv) - To establish the top UK cultural cities and towns per capita, DIYS.com gathered a list by population from [The Geographist](https://www.thegeographist.com/uk-cities-population-1000/)
 
 * `rank`: rank of the city or town within the UK by population.
 * `in_region`: rank of the city or town within its respective region by population.
